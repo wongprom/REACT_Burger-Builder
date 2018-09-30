@@ -1,5 +1,7 @@
 import React from 'react';
 
+import classes from './BurgerIngredient.css';
+
 const BurgerIngredient = props => {
   let ingredient = null;
 
