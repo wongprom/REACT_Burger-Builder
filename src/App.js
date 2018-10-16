@@ -8,7 +8,7 @@ class App extends Component {
       <div>
         <Layout>
           <BurgerBuilder />
-          <BuildControls />
+          {/* <BuildControls /> */}
         </Layout>
       </div>
     );
