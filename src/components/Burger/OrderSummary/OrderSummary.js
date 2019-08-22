@@ -14,7 +14,8 @@ const orderSummary = props => {
       <h3>YOUR ORDER</h3>
       <p>A delicious burger with fallowing ingredients:</p>
       <ul>{ingredientSummary}</ul>
-      <p>Continue to checkout</p>
+      <p>Total sum</p>
+      <p>Continue to checkout?</p>
     </Aux>
   );
 };
